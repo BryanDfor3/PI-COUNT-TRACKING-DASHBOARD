@@ -1,6 +1,8 @@
 # PI Count Tracking Dashboard (2022-23)
 ![PI_Count_Tracking_Dashboard](https://github.com/user-attachments/assets/b21098f0-c0cf-4040-b8d0-c8e80d584a85)
 
+(Note: The actual data used for the client engagement has been scrubbed and replaced with dummy data in the sceenshot above)
+
 ## Business Problem
 To meet its compliance standards, an automotive manufacturer needed to perform quarterly physical inventory (PI) counts until its goal threshold was met (90% accuracy). These physical inventory counts required the manufacturing plant to have to temporarily shut down, and in the previous quarter, the manufacturer not only severely missed its target accuracy, but also had to use 9 days to complete the inventory count. This resulted in significant downtime for the factory that led to the underproduction of vehicles assembled.
 
