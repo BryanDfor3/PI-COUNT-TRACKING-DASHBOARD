@@ -13,12 +13,12 @@ In the subsequent quarter, the automotive manufacturer brought on consultants fr
 2) Secured access to client technologies and systems (virtual desktop, SAP / Tableau & Tableau Server prod and test environments / Alteryx / DBeaver / Amazon Redshift)
 3) Leveraged SAP data from daily cycle counts to validate business logic
 4) Worked with client IT team to develop a push of critical SAP tables to Amazon Redshift using Boomi scheduled jobs (due to inability to query SAP directly)
-5) Developed data transformation workflow in Alteryx and data visualizations which adhered to the business logic established in step 1. SQL querys on Amazon Redshift were used as the method for data input, and Tableau sources (which would overwrite the data sources in the dashboards for each workflow run) were used as the output
-6) Published Alteryx workflow to Alteryx Server and configured the workflow to run on a schedule, enabling near-real time dashboard views visible to the entire enterprise
+5) Developed data cleansing and transformation workflow in Alteryx and data visualizations in Tableau which adhered to the business logic established in step 1. The Alteryx workflow used SQL querys on Amazon Redshift tables to input the data, and the Tableau Server Output tool was as the output (which would overwrite the Tableau Server data sources in the dashboards for each workflow run)
+6) Published Alteryx workflow to Alteryx Server and configured the workflow to run on a schedule, enabling near-real time dashboard views visible to the entire enterprise upon being granted viewer permission
 
 ## Skills
 1) Data Extraction - SQL
-2) Data Transformation - Alteryx
+2) Data Transformation, Data Cleansing - Alteryx
 3) Data Visualization - Tableau / Tableau Server
 
 ## Results
